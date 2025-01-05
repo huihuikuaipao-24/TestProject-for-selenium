@@ -102,3 +102,4 @@ C:\Users\lu-tg\source\repos\TestProject for selenium\TestProject for selenium\ob
 C:\Users\lu-tg\source\repos\TestProject for selenium\TestProject for selenium\obj\Debug\net8.0\TestProject for selenium.genruntimeconfig.cache
 C:\Users\lu-tg\source\repos\TestProject for selenium\TestProject for selenium\obj\Debug\net8.0\ref\TestProject for selenium.dll
 C:\Users\lu-tg\source\repos\TestProject for selenium\TestProject for selenium\bin\Debug\net8.0\WebDriver.Support.dll
+C:\Users\lu-tg\source\repos\TestProject for selenium\TestProject for selenium\obj\Debug\net8.0\TestProject for selenium.sourcelink.json
